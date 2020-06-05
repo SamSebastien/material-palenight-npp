@@ -7,11 +7,11 @@ After years of loving the Palenight themes developed for other IDEs such as PhpS
 
 ### Installation
 
-* Close Notepad++
-* Download the `Material Palenight.xml` file to your desktop.
-* Copy the downloaded file to `%APPDATA%\Roaming\Notepad++\themes`
-* Open Notepad++ and select the theme from `Settings > Style Configurator`
-* Optional: If you want to use the `JetBrains Mono` font set in the theme download from: https://github.com/JetBrains/JetBrainsMono
+1. Close Notepad++
+2. Download the `Material Palenight.xml` file to your desktop.
+3. Copy the downloaded file to `%APPDATA%\Roaming\Notepad++\themes`
+4. Open Notepad++ and select the theme from `Settings > Style Configurator`
+5. Optional: If you want to use the `JetBrains Mono` font set in the theme download from: https://github.com/JetBrains/JetBrainsMono
 
 ### Completed Styles
 
@@ -19,13 +19,13 @@ Most langauges should look good (given the styling limitations of NPP compared t
 
 If you find something looking off in another langauge let me know or PR so it can be updated.
 
-1. PHP
-2. Javascript
-3. HTML
-4. JSON
-5. Bash
-6. XML
-7. YAML
+* PHP
+* Javascript
+* HTML
+* JSON
+* Bash
+* XML
+* YAML
 
 ### Want more Palenight goodness?
 
