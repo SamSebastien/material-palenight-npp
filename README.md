@@ -1,6 +1,10 @@
 # Material Palenight Theme for Notepad++
 After years of loving the Palenight themes developed for other IDEs such as PhpStorm and VSCode, I felt Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus was missing out.
 
+
+![Demo of Palenight for Notepad++](https://github.com/SamSebastien/material-palenight-npp/blob/master/palenight-preview.jpg?raw=true)
+
+
 ### Installation
 
 * Close Notepad++
