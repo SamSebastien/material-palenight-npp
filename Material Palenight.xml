@@ -992,17 +992,17 @@ Notepad++ Custom Style
             <WordsStyle name="DEFAULT STYLE" styleID="32" fgColor="bfc7d5" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="0" fgColor="bfc7d5" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="697098" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="VALUE NAME" styleID="2" fgColor="cdebf7" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="STRING" styleID="3" fgColor="7F007F" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="HEX DIGIT" styleID="4" fgColor="7F0B0C" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="VALUE TYPE" styleID="5" fgColor="00007F" bgColor="292D3E" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="ADDED KEY" styleID="6" fgColor="530155" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="VALUE NAME" styleID="2" fgColor="ffcb6b" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="3" fgColor="C3E88D" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="HEX DIGIT" styleID="4" fgColor="ff2c83" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="VALUE TYPE" styleID="5" fgColor="F78C6C" bgColor="292D3E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="ADDED KEY" styleID="6" fgColor="ff5874" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REMOVED KEY" styleID="7" fgColor="EF5350" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="ESCAPED CHARACTERS IN STRINGS" styleID="8" fgColor="7D8187" bgColor="292D3E" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="GUID IN KEY PATH" styleID="9" fgColor="7B5F15" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="GUID IN STRING" styleID="10" fgColor="7B5F15" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="PARAMETER" styleID="11" fgColor="0B6561" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="OPERATORS" styleID="12" fgColor="bfc7d5" bgColor="292D3E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="GUID IN KEY PATH" styleID="9" fgColor="82AAFF" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="GUID IN STRING" styleID="10" fgColor="82AAFF" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="PARAMETER" styleID="11" fgColor="ffcb6b" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="OPERATORS" styleID="12" fgColor="89DDFF" bgColor="292D3E" fontName="" fontStyle="1" fontSize="" />
         </LexerType>
         <LexerType name="rc" desc="RC" ext="">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="FFEB95" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
@@ -1351,7 +1351,7 @@ Notepad++ Custom Style
         <!-- Attention : Don't modify the name of styleID="0" -->
         <WidgetStyle name="Global override" styleID="0" fgColor="bfc7d5" bgColor="292D3E" fontName="JetBrains Mono" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Default Style" styleID="32" fgColor="bfc7d5" bgColor="292D3E" fontName="JetBrains Mono" fontStyle="0" fontSize="10" />
-        <WidgetStyle name="Indent guideline style" styleID="37" fgColor="697098" bgColor="697098" fontName="" fontStyle="0" fontSize="14" />
+        <WidgetStyle name="Indent guideline style" styleID="37" fgColor="697098" bgColor="697098" fontName="" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Brace highlight style" styleID="34" fontName="" fontStyle="5" fgColor="FFEB95" bgColor="404764" fontSize="" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="EF5350" bgColor="292D3E" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="212432" fontStyle="0" fgColor="292D3E" fontSize="" />
