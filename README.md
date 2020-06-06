@@ -26,6 +26,7 @@ If you find something looking off in another langauge let me know or PR so it ca
 * Bash
 * XML
 * YAML
+* Registry Files
 
 ### Want more Palenight goodness?
 
