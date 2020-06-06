@@ -39,4 +39,4 @@ This is far and away my favourite theme, so here's some other Palenight themes f
 * iTerm: https://github.com/JonathanSpeek/palenight-iterm2
 * Chrome: https://chrome.google.com/webstore/detail/palenight/kijokffofapoilckfobaeinjbdpbnall
 * Chrome DevTools: https://chrome.google.com/webstore/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo
-
+* MinTTY / Git Bash: https://github.com/psyanite/palenight-mintty
